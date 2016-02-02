@@ -28,7 +28,7 @@ CISQ automated quality characteristics measures<br />
 ## Links ##
 
 [Software Metrics Wiki](https://en.wikipedia.org/wiki/Software_metric)
-
+[Code and Design Metrics for Object-Oriented Systems](http://www.cs.helsinki.fi/u/paakki/Lindroos.pdf)
 ## Books ##
 
 * Object Oriented Software Metrics, Mark Lorenz and Jeff Kidd, ISBN 0-13-179292 (1994)
